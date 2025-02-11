@@ -1,7 +1,8 @@
 # Mașină de spălat rufe
 Acest proiect implementează un automat simplu pentru comanda unei mașini de spălat
 # Descrierea proiectului
-Automatul pentru comanda maşinii de spălat este implementat în **VHDL** şi include moduri manuale şi automate, pornind dintr-o stare inactivă, cu uşa deschisă. În modul manual, utilizatorul poate seta temperatura (30°C, 40°C, 60°C, 90°C), viteza (800, 1000, 1200 rpm), prespălare şi clătire suplimentară. Timpul programului depinde de temperatura aleasă şi de opţiunile selectate.
+Proiectul a fost dezvoltat și implementat în **Vivado 2016.4** folosind limbajul **VHDL**.
+Automatul pentru comanda maşinii de spălat include moduri manuale şi automate, pornind dintr-o stare inactivă, cu uşa deschisă. În modul manual, utilizatorul poate seta temperatura (30°C, 40°C, 60°C, 90°C), viteza (800, 1000, 1200 rpm), prespălare şi clătire suplimentară. Timpul programului depinde de temperatura aleasă şi de opţiunile selectate.
 
 **Modurile automate sunt:**
 
