@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Jun 02 11:52:38 2024
+# Process ID: 10176
+# Current directory: C:/Users/maria/Desktop/uni/proiectPSN/Proiect.1/Proiect.2/Proiect
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26052 C:\Users\maria\Desktop\uni\proiectPSN\Proiect.1\Proiect.2\Proiect\Proiect.xpr
+# Log file: C:/Users/maria/Desktop/uni/proiectPSN/Proiect.1/Proiect.2/Proiect/vivado.log
+# Journal file: C:/Users/maria/Desktop/uni/proiectPSN/Proiect.1/Proiect.2/Proiect\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/maria/Desktop/uni/proiectPSN/Proiect.1/Proiect.2/Proiect/Proiect.xpr

@@ -1,0 +1,277 @@
+
+*** Running vivado
+    with args -log main.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source main.tcl -notrace
+
+
+****** Vivado v2016.4 (64-bit)
+  **** SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+  **** IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+    ** Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+
+source main.tcl -notrace
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Netlist 29-17] Analyzing 76 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2016.4
+INFO: [Device 21-403] Loading part xc7a50tcsg325-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc]
+CRITICAL WARNING: [Vivado 12-1815] Setting property 'IOSTANDARD' is not allowed for GT terminals. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:7]
+CRITICAL WARNING: [Common 17-69] Command failed: 'L16' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:13]
+CRITICAL WARNING: [Common 17-69] Command failed: 'M13' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:14]
+CRITICAL WARNING: [Common 17-69] Command failed: 'U18' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:18]
+CRITICAL WARNING: [Common 17-69] Command failed: 'T8' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:20]
+CRITICAL WARNING: [Common 17-69] Command failed: 'U8' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:21]
+CRITICAL WARNING: [Common 17-69] Command failed: 'H6' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:25]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V10' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:30]
+CRITICAL WARNING: [Common 17-69] Command failed: 'J13' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:35]
+CRITICAL WARNING: [Common 17-69] Command failed: 'T16' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:44]
+CRITICAL WARNING: [Common 17-69] Command failed: 'V15' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:45]
+CRITICAL WARNING: [Common 17-69] Command failed: 'T10' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:59]
+CRITICAL WARNING: [Common 17-69] Command failed: 'R10' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:60]
+CRITICAL WARNING: [Common 17-69] Command failed: 'K13' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:62]
+CRITICAL WARNING: [Common 17-69] Command failed: 'T11' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:64]
+CRITICAL WARNING: [Common 17-69] Command failed: 'J17' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:67]
+CRITICAL WARNING: [Common 17-69] Command failed: 'T9' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:69]
+CRITICAL WARNING: [Common 17-69] Command failed: 'U13' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:74]
+CRITICAL WARNING: [Common 17-69] Command failed: 'M18' is not a valid site or package pin name. [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc:81]
+Finished Parsing XDC File [C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.srcs/constrs_1/imports/Cursuri/Nexys-A7-100T-Master.xdc]
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+link_design: Time (s): cpu = 00:00:03 ; elapsed = 00:00:06 . Memory (MB): peak = 456.215 ; gain = 245.746
+INFO: [Vivado_Tcl 4-424] Cannot write hardware definition file as there are no IPI block design hardware handoff files present
+Command: opt_design
+Attempting to get a license for feature 'Implementation' and/or device 'xc7a50t'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a50t'
+Running DRC as a precondition to command opt_design
+
+Starting DRC Task
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Project 1-461] DRC finished with 0 Errors
+INFO: [Project 1-462] Please refer to the DRC report (report_drc) for more information.
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.440 . Memory (MB): peak = 468.227 ; gain = 12.012
+INFO: [Timing 38-35] Done setting XDC timing constraints.
+
+Starting Logic Optimization Task
+Implement Debug Cores | Checksum: ecac6d6c
+
+Phase 1 Retarget
+INFO: [Opt 31-138] Pushed 4 inverter(s) to 117 load pin(s).
+INFO: [Opt 31-49] Retargeted 0 cell(s).
+Phase 1 Retarget | Checksum: 125e1bfc6
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.079 . Memory (MB): peak = 967.375 ; gain = 0.000
+
+Phase 2 Constant propagation
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Opt 31-10] Eliminated 0 cells.
+Phase 2 Constant propagation | Checksum: 125e1bfc6
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.095 . Memory (MB): peak = 967.375 ; gain = 0.000
+
+Phase 3 Sweep
+INFO: [Opt 31-12] Eliminated 156 unconnected nets.
+INFO: [Opt 31-11] Eliminated 0 unconnected cells.
+Phase 3 Sweep | Checksum: cc0186a6
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.142 . Memory (MB): peak = 967.375 ; gain = 0.000
+
+Phase 4 BUFG optimization
+INFO: [Opt 31-12] Eliminated 0 unconnected nets.
+INFO: [Opt 31-11] Eliminated 0 unconnected cells.
+Phase 4 BUFG optimization | Checksum: 15ec713bd
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.189 . Memory (MB): peak = 967.375 ; gain = 0.000
+
+Starting Connectivity Check Task
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 967.375 ; gain = 0.000
+Ending Logic Optimization Task | Checksum: 15ec713bd
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.189 . Memory (MB): peak = 967.375 ; gain = 0.000
+
+Starting Power Optimization Task
+INFO: [Pwropt 34-132] Skipping clock gating for clocks with a period < 2.00 ns.
+Ending Power Optimization Task | Checksum: 15ec713bd
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.016 . Memory (MB): peak = 967.375 ; gain = 0.000
+INFO: [Common 17-83] Releasing license: Implementation
+23 Infos, 0 Warnings, 19 Critical Warnings and 0 Errors encountered.
+opt_design completed successfully
+opt_design: Time (s): cpu = 00:00:04 ; elapsed = 00:00:09 . Memory (MB): peak = 967.375 ; gain = 511.160
+Writing placer database...
+Writing XDEF routing.
+Writing XDEF routing logical nets.
+Writing XDEF routing special nets.
+Write XDEF Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.029 . Memory (MB): peak = 967.375 ; gain = 0.000
+INFO: [Common 17-1381] The checkpoint 'C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.runs/impl_2/main_opt.dcp' has been generated.
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Coretcl 2-168] The results of DRC are in file C:/Users/maria/Desktop/uni/proiectPSN/Proiect.2/Proiect/Proiect.runs/impl_2/main_drc_opted.rpt.
+INFO: [Chipscope 16-241] No debug cores found in the current design.
+Before running the implement_debug_core command, either use the Set Up Debug wizard (GUI mode)
+or use the create_debug_core and connect_debug_core Tcl commands to insert debug cores into the design.
+Command: place_design
+Attempting to get a license for feature 'Implementation' and/or device 'xc7a50t'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7a50t'
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Vivado_Tcl 4-198] DRC finished with 0 Errors
+INFO: [Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more information.
+Running DRC as a precondition to command place_design
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Vivado_Tcl 4-198] DRC finished with 0 Errors
+INFO: [Vivado_Tcl 4-199] Please refer to the DRC report (report_drc) for more information.
+
+Starting Placer Task
+INFO: [Place 30-611] Multithreading enabled for place_design using a maximum of 2 CPUs
+
+Phase 1 Placer Initialization
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 967.375 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 967.375 ; gain = 0.000
+
+Phase 1.1 IO Placement/ Clock Placement/ Build Placer Device
+ERROR: [Place 30-58] IO placement is infeasible. Number of unplaced terminals (8) is greater than number of available sites (0).
+The following Groups of I/O terminals have not sufficient capacity: 
+ IO Group: 0 with : SioStd: LVCMOS18   VCCO = 1.8 Termination: 0  TermDir:  In   RangeId: 1  has only 0 sites available on device, but needs 8 sites.
+	Term: setari_man[1]
+	Term: setari_man[2]
+	Term: setari_man[5]
+	Term: setari_man[8]
+	Term: aa
+	Term: mod_man_aut
+	Term: rst
+	Term: sr
+
+
+ERROR: [Place 30-58] IO placement is infeasible. Number of unplaced terminals (10) is greater than number of available sites (0).
+The following Groups of I/O terminals have not sufficient capacity: 
+ IO Group: 0 with : SioStd: LVCMOS18   VCCO = 1.8 Termination: 0  TermDir:  In   RangeId: 1  has only 0 sites available on device, but needs 8 sites.
+	Term: setari_man[1]
+	Term: setari_man[2]
+	Term: setari_man[5]
+	Term: setari_man[8]
+	Term: aa
+	Term: mod_man_aut
+	Term: rst
+	Term: sr
+
+
+ IO Group: 1 with : SioStd: LVCMOS18   VCCO = 1.8 Termination: 0  TermDir:  Out  RangeId: 1 Drv: 12  has only 0 sites available on device, but needs 10 sites.
+	Term: anod[0]
+	Term: anod[2]
+	Term: anod[7]
+	Term: catod[0]
+	Term: catod[1]
+	Term: catod[3]
+	Term: catod[5]
+	Term: temp[0]
+	Term: lps
+	Term: lsp
+
+
+ERROR: [Place 30-58] IO placement is infeasible. Number of unplaced terminals (18) is greater than number of available sites (0).
+The following Groups of I/O terminals have not sufficient capacity: 
+ IO Group: 0 with : SioStd: LVCMOS18   VCCO = 1.8 Termination: 0  TermDir:  In   RangeId: 1  has only 0 sites available on device, but needs 8 sites.
+	Term: setari_man[1]
+	Term: setari_man[2]
+	Term: setari_man[5]
+	Term: setari_man[8]
+	Term: aa
+	Term: mod_man_aut
+	Term: rst
+	Term: sr
+
+
+ IO Group: 1 with : SioStd: LVCMOS18   VCCO = 1.8 Termination: 0  TermDir:  Out  RangeId: 1 Drv: 12  has only 0 sites available on device, but needs 10 sites.
+	Term: anod[0]
+	Term: anod[2]
+	Term: anod[7]
+	Term: catod[0]
+	Term: catod[1]
+	Term: catod[3]
+	Term: catod[5]
+	Term: temp[0]
+	Term: lps
+	Term: lsp
+
+
+ERROR: [Place 30-374] IO placer failed to find a solution
+Below is the partial placement that can be analyzed to see if any constraint modifications will make the IO placement problem easier to solve.
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                     IO Placement : Bank Stats                                                                           |
++----+-------+-------+------------------------------------------------------------------------+------------------------------------------+--------+--------+--------+-----+
+| Id | Pins  | Terms |                               Standards                                |                IDelayCtrls               |  VREF  |  VCCO  |   VR   | DCI |
++----+-------+-------+------------------------------------------------------------------------+------------------------------------------+--------+--------+--------+-----+
+|  0 |     0 |     0 |                                                                        |                                          |        |        |        |     |
+| 14 |    50 |    30 | LVCMOS33(30)                                                           |                                          |        |  +3.30 |    YES |     |
+| 15 |    50 |     1 | LVCMOS33(1)                                                            |                                          |        |  +3.30 |    YES |     |
+| 34 |    50 |     1 | LVCMOS33(1)                                                            |                                          |        |  +3.30 |    YES |     |
++----+-------+-------+------------------------------------------------------------------------+------------------------------------------+--------+--------+--------+-----+
+|    |   150 |    32 |                                                                        |                                          |        |        |        |     |
++----+-------+-------+------------------------------------------------------------------------+------------------------------------------+--------+--------+--------+-----+
+
+IO Placement:
++--------+----------------------+-----------------+----------------------+----------------------+----------------------+
+| BankId |             Terminal | Standard        | Site                 | Pin                  | Attributes           |
++--------+----------------------+-----------------+----------------------+----------------------+----------------------+
+| 14     | anod[1]              | LVCMOS33        | IOB_X0Y44            | J18                  |                      |
+|        | anod[3]              | LVCMOS33        | IOB_X0Y40            | J14                  |                      |
+|        | anod[4]              | LVCMOS33        | IOB_X0Y26            | P14                  |                      |
+|        | anod[5]              | LVCMOS33        | IOB_X0Y24            | T14                  |                      |
+|        | ca                   | LVCMOS33        | IOB_X0Y25            | R15                  |                      |
+|        | catod[2]             | LVCMOS33        | IOB_X0Y48            | K16                  |                      |
+|        | catod[4]             | LVCMOS33        | IOB_X0Y28            | P15                  |                      |
+|        | catod[6]             | LVCMOS33        | IOB_X0Y41            | L18                  |                      |
+|        | ci                   | LVCMOS33        | IOB_X0Y21            | R17                  |                      |
+|        | cs                   | LVCMOS33        | IOB_X0Y10            | U14                  |                      |
+|        | lcf                  | LVCMOS33        | IOB_X0Y3             | V11                  |                      |
+|        | lcl                  | LVCMOS33        | IOB_X0Y9             | V14                  |                      |
+|        | lcs                  | LVCMOS33        | IOB_X0Y8             | V12                  |                      |
+|        | load_info            | LVCMOS33        | IOB_X0Y29            | P18                  |                      |
+|        | ps                   | LVCMOS33        | IOB_X0Y23            | T15                  |                      |
+|        | rm                   | LVCMOS33        | IOB_X0Y19            | T18                  |                      |
+|        | setari_man[0]        | LVCMOS33        | IOB_X0Y12            | R13                  |                      |
+|        | setari_man[3]        | LVCMOS33        | IOB_X0Y22            | R16                  |                      |
+|        | setari_man[4]        | LVCMOS33        | IOB_X0Y11            | T13                  | *                    |
+|        | setari_man[6]        | LVCMOS33        | IOB_X0Y5             | U12                  |                      |
+|        | setari_man[7]        | LVCMOS33        | IOB_X0Y4             | U11                  |                      |
+|        | start_buton          | LVCMOS33        | IOB_X0Y31            | N17                  |                      |
+|        | temp[1]              | LVCMOS33        | IOB_X0Y33            | N14                  |                      |
+|        | temp[2]              | LVCMOS33        | IOB_X0Y20            | R18                  |                      |
+|        | temp[3]              | LVCMOS33        | IOB_X0Y13            | V17                  |                      |
+|        | usa                  | LVCMOS33        | IOB_X0Y46            | J15                  |                      |
+|        | usa_bl               | LVCMOS33        | IOB_X0Y39            | K15                  |                      |
+|        | vit[0]               | LVCMOS33        | IOB_X0Y17            | U17                  |                      |
+|        | vit[1]               | LVCMOS33        | IOB_X0Y15            | U16                  |                      |
+|        | vit[2]               | LVCMOS33        | IOB_X0Y14            | V16                  |                      |
++--------+----------------------+-----------------+----------------------+----------------------+----------------------+
+| 15     | usa_in               | LVCMOS33        | IOB_X0Y54            | H17                  |                      |
++--------+----------------------+-----------------+----------------------+----------------------+----------------------+
+| 34     | anod[6]              | LVCMOS33        | IOB_X1Y44            | K2                   |                      |
++--------+----------------------+-----------------+----------------------+----------------------+----------------------+
+
+WARNING: [Place 30-87] Partially locked IO Bus is found. Following components of the IO Bus anod are not locked:  'anod[7]'  'anod[2]'  'anod[0]' 
+WARNING: [Place 30-87] Partially locked IO Bus is found. Following components of the IO Bus catod are not locked:  'catod[5]'  'catod[3]'  'catod[1]'  'catod[0]' 
+WARNING: [Place 30-87] Partially locked IO Bus is found. Following components of the IO Bus setari_man are not locked:  'setari_man[1]'  'setari_man[2]'  'setari_man[5]'  'setari_man[8]' 
+WARNING: [Place 30-87] Partially locked IO Bus is found. Following components of the IO Bus temp are not locked:  'temp[0]' 
+INFO: [Timing 38-35] Done setting XDC timing constraints.
+Phase 1.1 IO Placement/ Clock Placement/ Build Placer Device | Checksum: 51128f91
+
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.650 . Memory (MB): peak = 992.359 ; gain = 24.984
+Phase 1 Placer Initialization | Checksum: 51128f91
+
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.650 . Memory (MB): peak = 992.359 ; gain = 24.984
+ERROR: [Place 30-99] Placer failed with error: 'IO Clock Placer failed'
+Please review all ERROR, CRITICAL WARNING, and WARNING messages during placement to understand the cause for failure.
+Ending Placer Task | Checksum: 51128f91
+
+Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.650 . Memory (MB): peak = 992.359 ; gain = 24.984
+INFO: [Common 17-83] Releasing license: Implementation
+37 Infos, 4 Warnings, 19 Critical Warnings and 6 Errors encountered.
+place_design failed
+ERROR: [Common 17-69] Command failed: Placer could not place all instances
+INFO: [Common 17-206] Exiting Vivado at Tue May 28 15:36:44 2024...
